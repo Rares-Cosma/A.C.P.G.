@@ -1,0 +1,10 @@
+What if my protein is not in the NCBI database?
+
+You can enter your protein sequences manually
+if they aren't included in the database.
+
+Where are my sequences located?
+
+The generated sequences are always located in the 
+same folder as the executable in a file named
+dna-sequencesN.fasta (N being a number)

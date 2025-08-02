@@ -1,0 +1,7 @@
+Project made by
+Cosma Rares
+in coordination of
+Prof. Codruta Burlea
+
+A tool to help scientists
+determine DNA sequences based on a protein.
